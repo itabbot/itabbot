@@ -2,7 +2,7 @@
 作品：低代码平台/网页小游戏/趣味插件  
 参与：xxx/xxx  
 
-### 能力概述
+### 技能概述
 语言：精通 Node.js/TypeScript、掌握 Golang/Python/PHP/JavaScript/HTML、熟悉 CSS  
 框架：精通 Express/Socketio/gRPC、掌握 Koa/Nestjs/Egg/Thrift、熟悉 Vue  
 数据库：精通 Mysql/Redis、掌握 Mongodb/Elasticsearch  
