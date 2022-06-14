@@ -1,8 +1,6 @@
-### 个人作品
-低代码平台/网页小游戏/趣味插件  
-
-### 参与项目
-xxx/xxx  
+### 项目经历
+作品：低代码平台/网页小游戏/趣味插件  
+参与：xxx/xxx  
 
 ### 能力概述
 语言：精通 Node.js/TypeScript、掌握 Golang/Python/PHP/JavaScript/HTML、熟悉 CSS  
