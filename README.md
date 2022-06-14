@@ -12,7 +12,7 @@
 运维：掌握 Git/CI/CD/Linux/Docker/Kubernetes、熟悉 ELK/Prometheus/Zipkin  
 
 ### 自我评价
-特点：追求卓越（完美主义+业务导向）  
+特点：追求卓越（完美主义+目标导向）  
 热爱：编程/思考/钻研  
 擅长：解决问题/逻辑推理/总结归纳  
 活跃于：[GitHub](https://github.com/itabbot)/[StackOverflow](https://stackoverflow.com/users/19329970/abbot)  
