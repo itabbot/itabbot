@@ -3,7 +3,7 @@
 参与：xxx/xxx  
 
 ### 技能概述
-语言：熟练 Node.js/TypeScript、掌握 Golang/Python/PHP/JavaScript/HTML、熟悉 CSS  
+语言：熟练 Node.js/TypeScript/JavaScript、掌握 Golang/Python/PHP/HTML、熟悉 CSS  
 框架：熟练 Express/Socketio/gRPC、掌握 Koa/Nestjs/Egg/Thrift、熟悉 Vue  
 数据库：熟练 Mysql/Redis、掌握 Mongodb/Elasticsearch  
 架构：掌握 BFF/LVS/Nginx/RESTFul/GraphQL/RabbitMQ/Kafka、熟悉 高性能/高可用/高扩展  
