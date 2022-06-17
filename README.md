@@ -15,7 +15,7 @@
 特点：追求卓越（完美主义+目标导向）  
 热爱：编程/思考/钻研  
 擅长：解决问题/逻辑推理/总结归纳  
-活跃于：[GitHub](https://github.com/itabbot)/[StackOverflow](https://stackoverflow.com/users/19329970/abbot)  
+活跃于：[GitHub](https://github.com/itabbot)/[StackOverflow](https://stackoverflow.com/users/19329970/abbot)/[知乎](https://www.zhihu.com/people/itabbot)  
 
 <!--
 - 🔭 I’m currently working on ...
