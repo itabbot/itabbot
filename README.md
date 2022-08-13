@@ -1,6 +1,6 @@
 ### 项目经历
 
-福保：[初期业务梳理](../../../../fooinscorp/.github/blob/main/profile/成立初期/成立初期业务梳理.md)/[初期系统设计](../../../../fooinscorp/.github/blob/main/profile/成立初期/成立初期系统设计.md)  
+[福保](../../../../fooinscorp)：[初期业务梳理](../../../../fooinscorp/.github/blob/main/profile/成立初期/成立初期业务梳理.md)/[初期系统设计](../../../../fooinscorp/.github/blob/main/profile/成立初期/成立初期系统设计.md)  
 游戏：[扫雷](../../../mine-sweeper)/[俄罗斯方块](../../../tetris)
 
 ### 技能概述
