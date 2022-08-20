@@ -1,9 +1,9 @@
-# TEST
+# The largest heading
 
-xxx
+Some text...
 
-## 这是二级标题[^1]
+## The second largest heading[^1]
 
-xxx
+Some text...
 
-[^1]: 这是一个页脚注释。
+[^1]: Some footnotes.
