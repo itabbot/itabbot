@@ -1,0 +1,12 @@
+// Visual Studio Code 编辑器键盘快捷方式个性化配置
+//
+// 可将内容覆盖或追加到配置文件中。
+// `Ctrl + Shift + P` 打开命令模板输入 `Preferences: Open Keyboard shortcuts (JSON)` 快捷打开配置文件。
+
+[
+  // ESLint 自动修复
+  {
+    "key": "ctrl+shift+alt+f",
+    "command": "eslint.executeAutofix"
+  }
+]

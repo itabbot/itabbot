@@ -1,0 +1,41 @@
+// Visual Studio Code 编辑器个性化配置
+//
+// 可将内容覆盖或追加到用户配置、工作区配置或者特定工程下的配置。
+// `Ctrl + Shift + P` 打开命令模板输入 `Preferences: Open Settings (JSON)` 快捷打开配置文件。
+
+{
+  // 一个制表符等于的空格数。
+  // 在 `editor.detectIndentation` 启用时，根据文件内容，该设置可能会被覆盖。
+  "editor.tabSize": 2,
+
+  // 默认行尾字符。
+  //  - \n: LF
+  //  - \r\n: CRLF
+  //  - auto: 使用具体操作系统规定的行末字符。
+  "files.eol": "\n",
+
+  // 控制字体大小（像素）。
+  "editor.fontSize": 20,
+
+  // 控制是否显示缩略图。
+  "editor.minimap.enabled": false,
+
+  // 启用/禁用导航路径。
+  "breadcrumbs.enabled": false,
+
+  // 定义一个默认格式化程序, 该格式化程序优先于所有其他格式化程序设置。
+  // 必须是提供格式化程序的扩展的标识符。
+  //  - esbenp.prettier-vscode: Code formatter using prettier
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[markdown]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}
