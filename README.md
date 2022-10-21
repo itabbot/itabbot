@@ -11,7 +11,7 @@
 架构：掌握 BFF/LVS/Nginx/[RESTFul](../../../learn/tree/main/RESTFul)/GraphQL/RabbitMQ/Kafka、熟悉 高性能/高可用/高扩展/[企业中台](../../../learn/tree/main/中台)  
 技巧：掌握 OOP/数据结构和算法/设计模式/[代码规范](../../../learn/tree/main/代码规范)  
 测试：掌握 单元测试/集成测试/压力测试  
-运维：掌握 [Git](../../../learn/tree/main/Git)/CI/CD/Linux/Docker/Kubernetes、熟悉 ELK/Prometheus/Zipkin
+运维：掌握 [Git](../../../learn/tree/main/Git)/[Linux](../../../learn/tree/main/Linux)/CI/CD/Docker/Kubernetes、熟悉 ELK/Prometheus/Zipkin
 
 ### 自我评价
 
