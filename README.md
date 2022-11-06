@@ -8,7 +8,7 @@
 语言：熟练 [Node.js](../../../learn/tree/main/Node.js)/TypeScript/[JavaScript](../../../learn/tree/main/JavaScript)、掌握 Golang/Python/PHP/HTML、熟悉 CSS  
 框架：熟练 [Koa](../../../learn/tree/main/Koa)/Express/gRPC、掌握 Socketio/Nestjs/Egg/Thrift、熟悉 Vue  
 数据库：熟练 [MySQL](../../../learn/tree/main/MySQL)/[Redis](../../../learn/tree/main/Redis)、掌握 Mongodb/Elasticsearch  
-架构：掌握 BFF/LVS/Nginx/[RESTFul](../../../learn/tree/main/RESTFul)/GraphQL/RabbitMQ/Kafka、熟悉 高性能/高可用/高扩展/[企业中台](../../../learn/tree/main/中台)  
+架构：掌握 LVS/Nginx/[RESTFul](../../../learn/tree/main/RESTFul)/GraphQL/消息队列、熟悉 高性能/高可用/高扩展/微服务/[企业中台](../../../learn/tree/main/中台)  
 技巧：掌握 OOP/数据结构和算法/设计模式/[代码规范](../../../learn/tree/main/代码规范)  
 测试：掌握 [单元测试](../../../learn/tree/main/单元测试)/[接口测试](../../../learn/tree/main/接口测试)/[性能测试](../../../learn/tree/main/性能测试)  
 运维：掌握 [Git](../../../learn/tree/main/Git)/[Linux](../../../learn/tree/main/Linux)/CI/CD/Docker/Kubernetes、熟悉 ELK/Prometheus/Zipkin
