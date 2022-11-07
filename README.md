@@ -6,13 +6,13 @@
 ### 技能概述
 
 <!-- TypeScript/Python -->
-<!-- Express/Socketio/gRPC/Thrift/Nestjs -->
+<!-- Socketio/gRPC/Thrift/Nestjs -->
 <!-- Mongodb -->
 <!-- GraphQL -->
 <!-- ELK/Prometheus/Zipkin -->
 
 语言：[Node.js](../../../learn/tree/main/Node.js)/Golang/[JavaScript](../../../learn/tree/main/JavaScript)/PHP/HTML  
-框架：[Koa](../../../learn/tree/main/Koa)/Egg/Vue  
+框架：[Koa](../../../learn/tree/main/Koa)/Egg/Express/Vue  
 数据库：[MySQL](../../../learn/tree/main/MySQL)/[Redis](../../../learn/tree/main/Redis)/Elasticsearch  
 架构：高性能+高可用+高扩展/[RESTFul](../../../learn/tree/main/RESTFul)/消息队列/微服务/[企业中台](../../../learn/tree/main/中台)  
 技巧：[代码规范](../../../learn/tree/main/代码规范)/OOP/设计模式/数据结构和算法  
