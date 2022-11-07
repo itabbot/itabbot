@@ -14,7 +14,7 @@
 语言：[Node.js](../../../learn/tree/main/Node.js)/Golang/[JavaScript](../../../learn/tree/main/JavaScript)/PHP/HTML  
 框架：[Koa](../../../learn/tree/main/Koa)/Egg/Express/Vue  
 数据库：[MySQL](../../../learn/tree/main/MySQL)/[Redis](../../../learn/tree/main/Redis)/Elasticsearch  
-架构：高性能+高可用+高扩展/[RESTFul](../../../learn/tree/main/RESTFul)/消息队列/微服务/[企业中台](../../../learn/tree/main/中台)  
+架构：高性能高可用高扩展/[RESTFul](../../../learn/tree/main/RESTFul)/消息队列/微服务/[企业中台](../../../learn/tree/main/中台)  
 技巧：[代码规范](../../../learn/tree/main/代码规范)/OOP/设计模式/数据结构和算法  
 测试：[接口测试](../../../learn/tree/main/接口测试)/[性能测试](../../../learn/tree/main/性能测试)/[单元测试](../../../learn/tree/main/单元测试)  
 运维：Kubernetes/Docker/CI/CD/[Linux](../../../learn/tree/main/Linux)/[Git](../../../learn/tree/main/Git)
