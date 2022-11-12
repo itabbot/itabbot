@@ -14,7 +14,7 @@
 语言：[Node.js](../../../learn/tree/main/Node.js) / Golang / [JavaScript](../../../learn/tree/main/JavaScript) / PHP / HTML  
 框架：[Koa](../../../learn/tree/main/Koa) / Egg / Express / Vue  
 数据库：[MySQL](../../../learn/tree/main/MySQL) / [Redis](../../../learn/tree/main/Redis) / Elasticsearch  
-架构：[高性能](../../../learn/tree/main/%E9%AB%98%E6%80%A7%E8%83%BD%EF%BC%88Web%20%E6%9C%8D%E5%8A%A1%E7%AB%AF%E5%BA%94%E7%94%A8%EF%BC%89) / 高可用 / 高扩展 / 消息队列 / 微服务 / [企业中台](../../../learn/tree/main/中台) / [RESTFul](../../../learn/tree/main/RESTFul)  
+架构：[高性能](../../../learn/tree/main/%E9%AB%98%E6%80%A7%E8%83%BD%EF%BC%88Web%20%E6%9C%8D%E5%8A%A1%E7%AB%AF%E5%BA%94%E7%94%A8%EF%BC%89) / [高可用](../../../learn/tree/main/%E9%AB%98%E5%8F%AF%E7%94%A8%E6%80%A7%EF%BC%88Web%20%E6%9C%8D%E5%8A%A1%E7%AB%AF%E5%BA%94%E7%94%A8%EF%BC%89) / 高扩展 / 消息队列 / 微服务 / [企业中台](../../../learn/tree/main/中台) / [RESTFul](../../../learn/tree/main/RESTFul)  
 技巧：[代码规范](../../../learn/tree/main/代码规范) / OOP / 设计模式 / 数据结构和算法  
 测试：[接口测试](../../../learn/tree/main/接口测试) / [性能测试](../../../learn/tree/main/性能测试) / [单元测试](../../../learn/tree/main/单元测试)  
 运维：Kubernetes / Docker / CI / CD / [Linux](../../../learn/tree/main/Linux) / [Git](../../../learn/tree/main/Git)
