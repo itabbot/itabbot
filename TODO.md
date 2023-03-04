@@ -16,8 +16,10 @@
    - https://zhuanlan.zhihu.com/p/541977763
    - https://zhuanlan.zhihu.com/p/76305875
 8. fooins 业务扩展改造
-   - 主页描述和链接
+   - 学习 GRPC 框架
+   - 主页描述和链接（个人和组织）
    - 链接工程
 9. 学习 OOP
 10. 学习设计模式
 11. 学习数据结构和算法
+12. 学习 AI
