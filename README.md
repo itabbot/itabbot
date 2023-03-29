@@ -1,8 +1,3 @@
-### 项目经历
-
-[福保](../../../../fooins)：[快速接入跑通流程](../../../../fooins/.github/blob/main/profile/成立初期/成立初期系统设计.md) / [高性能高可用高扩展](../../../../fooins/.github/blob/main/profile/业务倍增/业务倍增阶段系统改造.md) / 中台化微服务化  
-游戏：[扫雷](../../../mine-sweeper) / [俄罗斯方块](../../../tetris)
-
 ### 技能概述
 
 语言：[Node.js](../../../learn/tree/main/Node.js) / [Golang](../../../learn/tree/main/Go) / [JavaScript](../../../learn/tree/main/JavaScript) / [PHP](../../../learn/tree/main/PHP)  
